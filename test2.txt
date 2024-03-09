@@ -1,0 +1,1 @@
+hello everyone we going to perform CICD practical
